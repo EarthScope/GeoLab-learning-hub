@@ -1,12 +1,9 @@
 # GeoLab Learning Hub
 
-The Learning Hub is a repository for tutorials, workshops, and geophysics examples. The repository is organized by:
+The Learning Hub is a repository for various geophysics examples and notebook resources that are designed to run in GeoLab. 
 
-- **examples:** fully worked code examples, HOWTOs, and code snippets
-- **short-course:** instructional materials associated with a short courses
-- **tutorials:** guides ranging from basic operations to domain specific methods
-- **workshops:** instructional materials for workshops
+Contributions are encouraged, but not required, to follow the templates in the /templates directory. 
 
 ## Earthscope GeoLab
 
-Earthscope's Jupyter Lab environment is available at [GeoLab](https://earthscope.org/data/geolab).
+Earthscope's JupyterHub environment is available at [GeoLab](https://earthscope.org/data/geolab).
